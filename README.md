@@ -14,7 +14,7 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
 
 - Jugar Videojuegos
      - Play Station 5
-     - Days Gone 
+
 
 - Practicar Natación
 ## Fotos
@@ -27,5 +27,5 @@ Me llamo Jhovani Ramos y estudio en la facultad de Informática de la UAQ
 ## Código
 
 ```C#
-Console.writeline("Hola papus");
+Console.writeline("Hi");
 
